@@ -1,4 +1,6 @@
-# LED_Driver_18W-120mA_For_T8_Tube Features
+# LED Driver 18W 120mA For T8 Tube 
+
+Specification
 
 Rated Input Voltage    : 220-240VAC
 
