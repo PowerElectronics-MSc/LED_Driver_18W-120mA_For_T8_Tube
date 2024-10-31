@@ -8,7 +8,7 @@
 
 > ***Power Factor                :*** *>0.6*
 
-> ***No Load Power               :*** *≤0.5*
+> ***No Load Power               :*** *≤0.5W*
 
 > ***Output Voltage              :*** *30-150VDC*
 
