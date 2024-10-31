@@ -1,29 +1,29 @@
-# LED Driver 18W 120mA For T8 Tube Specification 
-------------------------------------------------
-- Rated Input Voltage <br/>         : 220-240VAC
+# ***LED Driver 18W 120mA For T8 Tube Specification*** 
 
-- Range of Input Voltage      : 176-264VAC
+> **Rated Input Voltage         :** 220-240VAC
 
-- Frequency                   : 50-60Hz
+> **Range of Input Voltage      :** 176-264VAC
 
-- Power Factor                : >0.6
+> **Frequency                   :** 50-60Hz
 
-- No Load Power               : ≤0.5
+> **Power Factor                :** >0.6
 
-- Output Voltage              : 30-150VDC
+> **No Load Power               :** ≤0.5
 
-- Over Voltage Protection     : 160VDC max.
+> **Output Voltage              :** 30-150VDC
 
-- Output Current              : 120mA (Constant Current)
+> **Over Voltage Protection     :** 160VDC max.
 
-- Efficiency                  : ≥%92
+> **Output Current              :** 120mA (Constant Current)
 
-- Short Circuit Protection    : YES / Auto Resume
+> **Efficiency                  :** ≥%92
 
-- Thermal Regulation Function : YES / Internal IC
+> **Short Circuit Protection    :** YES / Auto Resume
 
-- Topology                    : Non-Isolated Buck
+> **Thermal Regulation Function :** YES / Internal IC
+
+> **Topology                    :** Non-Isolated Buck
 
 ![image](https://github.com/user-attachments/assets/35f44f31-20ef-4f03-b61d-273f3f13615c)
 
-------------------------------------------------
+
